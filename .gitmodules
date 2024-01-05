@@ -1,0 +1,3 @@
+[submodule "games-recommender"]
+	path = games-recommender
+	url = https://github.com/maqnitude/games-recommender
